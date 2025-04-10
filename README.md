@@ -2,6 +2,7 @@
 
 Bem-vindo(a) ao meu perfil no GitHub!  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif">
 
+
 Sou uma entusiasta da tecnologia, apaixonada por pesquisa e fascinada pelo mundo da Ciência de Dados. Estou começando minha jornada na Ciência da Computação em 2025 e, atualmente, estou explorando o mundo da programação com Python e Django, mas estou sempre disposta a explorar algo novo. Aqui você encontrará alguns dos meus projetos, exercícios e aprendizados enquanto eu me aventuro nesse universo incrível da tecnologia.
 
 Ainda estou no começo, então cada linha de código é um passo na minha evolução. Fique à vontade para explorar, dar feedbacks ou colaborar!
