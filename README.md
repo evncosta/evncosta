@@ -1,6 +1,6 @@
 # **👋🏻 Olá, meu nome é Esther!**
 
-Bem-vindo(a) ao meu perfil no GitHub! <img align="right" alt="Coding" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+Bem-vindo(a) ao meu perfil no GitHub! <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 Sou uma entusiasta da tecnologia, apaixonada por pesquisa e fascinada pelo mundo da Ciência de Dados. Estou começando minha jornada na Ciência da Computação em 2025 e, atualmente, estou explorando o mundo da programação com Python e Django, mas estou sempre disposta a explorar algo novo. Aqui você encontrará alguns dos meus projetos, exercícios e aprendizados enquanto eu me aventuro nesse universo incrível da tecnologia.
 
 Ainda estou no começo, então cada linha de código é um passo na minha evolução. Fique à vontade para explorar, dar feedbacks ou colaborar!
