@@ -17,5 +17,5 @@ Ainda estou no começo, então cada linha de código é um passo na minha evolu�
 
 > *"A jornada de mil milhas começa com um único passo." – Lao Tsé*
 
-![evncosta's Stats](https://github-readme-stats.vercel.app/api?username=evncosta&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![evncosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evncosta&theme=radical&show_icons=true&hide_border=true&layout=compact)
+![evncosta's Stats](https://github-readme-stats.vercel.app/api?username=evncosta&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![evncosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evncosta&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
