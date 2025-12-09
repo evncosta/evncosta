@@ -37,8 +37,3 @@ Atualmente, meus estudos estão focados em:
 [![Telegram](https://img.shields.io/badge/Telegram-8B89CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/esthervn)
 
 > *"A jornada de mil milhas começa com um único passo." – Lao Tsé*
-
----
-
-![evncosta's Stats](https://github-readme-stats.vercel.app/api?username=evncosta&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![evncosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evncosta&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
